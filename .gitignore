@@ -1,0 +1,6 @@
+notes.md
+venv/
+wandb/
+__pycache__/
+*.pyc
+*.bin
