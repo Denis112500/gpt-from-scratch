@@ -13,8 +13,8 @@ The goal isn't to produce a production model it's to understand every piece of t
 | 1 | Micrograd — backprop from scratch | ✅ |
 | 2 | Bigram language model | ✅ |
 | 3 | Tokenization & embeddings | ✅ |
-| 4 | Self-attention mechanism | 🔄 |
-| 5 | Multi-head attention + Feed-forward blocks | ⬜ |
+| 4 | Self-attention mechanism | ✅ |
+| 5 | Multi-head attention + Feed-forward blocks | 🔄 |
 | 6 | Full GPT-2 architecture (nanoGPT) | ⬜ |
 | 7 | Training on custom dataset | ⬜ |
 
