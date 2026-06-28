@@ -1,6 +1,6 @@
 # gpt-from-scratch
 
-Building a GPT-style transformer from scratch in PyTorch, following Andrej Karpathy's [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) series.
+Building a GPT-style transformer from scratch in PyTorch.
 
 The goal isn't to produce a production model it's to understand every piece of the architecture before using it for serious work.
 
