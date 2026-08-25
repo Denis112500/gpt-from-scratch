@@ -1,0 +1,8 @@
+notes.md
+venv/
+wandb/
+__pycache__/
+*.pyc
+*.bin
+*.png
+checkpoint_*.pt
